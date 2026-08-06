@@ -1,1 +1,0 @@
-// Use the optimal binary-search solution shared in the chat.
